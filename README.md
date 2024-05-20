@@ -4,6 +4,7 @@ In this repository, you will find the materials for the classes I have taught ov
 
 
 |Course|Year|
+|-----:|---:|
 |[Artificial Intelligence]()|2024|
 |[Exploratory Data Analysis](https://github.com/carlosjimenez88M/EDA_Course)|2022|
 |[Machine Learning](https://github.com/carlosjimenez88M/bootcamprBIT)|2021|
